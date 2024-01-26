@@ -4,4 +4,4 @@
     branch: main # The branch the action should deploy to.
     folder: dist # The folder the action should deploy.
     token: ${{ secrets.TOKEN }}
-    repository-name: ${{ env.owner }}/${{ env.repo }}
+    repository-name: tsaxena2/cicd-workshop-staging
